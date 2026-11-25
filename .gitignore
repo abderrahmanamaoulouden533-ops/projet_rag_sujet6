@@ -1,0 +1,18 @@
+﻿# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Données lourdes
+corpus/*.pdf
+*.faiss
+*.index
+
+# Environnements
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
